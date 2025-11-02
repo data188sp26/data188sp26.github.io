@@ -17,6 +17,8 @@ seo:
 <!--[Announcements](announcements.md){: .btn .btn-outline .fs-3 }-->
 <!--{% endif %}-->
 
+IMPORTANT(2025-11-02) This is a WORK IN PROGRESS, and not finalized.
+
 ## Course Description
 
 From the [UC Berkeley course catalog](https://classes.berkeley.edu/content/2026-spring-data-188-001-sem-001):
