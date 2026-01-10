@@ -3,16 +3,16 @@
 <div class="schedule">
   <div style="display: flex;">
     <!-- Timeline Column -->
-    <div style="width: 15%; margin-right: 2%; min-width: 75px; max-width: 75px"> 
+    <div style="width: 15%; margin-right: 2%; min-width: 75px; max-width: 75px">
       <ul class="schedule-timeline" style="min-width: {{ page.schedule | size | times: 120 }}px;">
         {% for time in page.timeline %}
         <li class="schedule-time">{{ time }} </li>
         {% endfor %}
       </ul>
     </div>
-    
+
     <!-- Schedule Column -->
-    <ul class="schedule-group" style="flex-grow: 1;"> 
+    <ul class="schedule-group" style="flex-grow: 1;">
       {% for day in page.schedule %}
       <li class="schedule-day">
         <h2 class="schedule-header">{{ day.name }}</h2>
@@ -29,6 +29,10 @@
               <div class="time">{{ event.start }}-{{ event.end }}</div>
               {% if event.location %}
               <div class="location">{{ event.location }}</div>
+              {% endif %}
+              <!-- (optional) add additional info, like section number, TA, etc -->
+              {% if event.info %}
+              <div class="info">{{ event.info }}</div>
               {% endif %}
             </li>
           {% endfor %}

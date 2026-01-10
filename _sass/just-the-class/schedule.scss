@@ -92,6 +92,10 @@
       @extend .fs-2;
     }
 
+    .info {
+      @extend .fs-2;
+    }
+
     &.lecture {
       background-color: $grey-lt-300;
       color: $grey-dk-300;

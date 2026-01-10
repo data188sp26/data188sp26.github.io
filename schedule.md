@@ -9,8 +9,6 @@ published: true
 
 # Schedule
 
-DATA courses typically put this page as thier homepage. 
-
 {% for module in site.modules %}
   {{ module }}
 {% endfor %}

@@ -37,22 +37,26 @@ schedule:
         location: Online (via Zoom)
   - name: Wednesday
     events:
-      - name: Discussion 101 (TA TBD)
+      - name: Section
         start: 11:00 AM
         end: 12:00 PM
         location: Lewis 9
-      - name: Discussion 102 (TA TBD)
+        info: "101, TA: TBD"
+      - name: Section
         start: 12:00 PM
         end: 1:00 PM
         location: Social Sciences Building 56
-      - name: Discussion 103 (TA TBD)
+        info: "102, TA: TBD"
+      - name: Section
         start: 2:00 PM
         end: 3:00 PM
         location: Social Sciences Building 110
-      - name: Discussion 104 (TA TBD)
+        info: "103, TA: TBD"
+      - name: Section
         start: 3:00 PM
         end: 4:00 PM
         location: Social Sciences Building 110
+        info: "104, TA: TBD"
 
   - name: Thursday
     events:

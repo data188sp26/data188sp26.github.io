@@ -3,21 +3,22 @@ layout: calendar_dynamic
 title: Calendar (Dynamic)
 description: Lecture, Discussion and OH schedules
 nav_order: 3
+published: false
 ---
 
 # Calendar (Dynamic)
-Use this calendar if you want to integrate your class's Google Calendar into the website. 
+Use this calendar if you want to integrate your class's Google Calendar into the website.
 
 ## Directions
 1. Ensure there is a calendar for your course. You may reuse the previous semester's calendar if it exists. We suggest that calendars belong to a course's SPA. [Directions for creating a new calendar here.](https://support.google.com/calendar/answer/37095?hl=en)
-1. In `config.yml`, set `google_calendar_id` to the calendar's Calendar ID from the [settings page](https://support.google.com/calendar/answer/6084644?hl=en&co=GENIE.Platform%3DDesktop). 
+1. In `config.yml`, set `google_calendar_id` to the calendar's Calendar ID from the [settings page](https://support.google.com/calendar/answer/6084644?hl=en&co=GENIE.Platform%3DDesktop).
 1. Create a Google API Key. You may be able to reuse the previous semester's API key if one exists.
     1. If there is not a Google Cloud project associated with your course, [create a new project](https://developers.google.com/workspace/guides/create-project).
     1. Access "APIs & Services" from the left side bar.
-    1. Click "Create credentials" -> "API key." Set `google_api_key` in `config.yml` to the key you obtain. 
+    1. Click "Create credentials" -> "API key." Set `google_api_key` in `config.yml` to the key you obtain.
     1. Click on the newly created key to update the settings. Rename the key to something more useful like "COURSE NAME Calendar Key." Under "Application restrictions" choose "Websites" and add a restriction for your course website (use the single domain, e.g. "https://data8.com"). Don't forget to click "Save."
     1. Enable the [Google Calendar API](https://console.cloud.google.com/apis/api/calendar-json.googleapis.com/metrics?). [Instructions here](https://support.google.com/googleapi/answer/6158841?hl=en)
-1. Create calendar events for your class using this new calendar. 
+1. Create calendar events for your class using this new calendar.
     1. You may want to take advantage of the [recurring event feature](https://support.google.com/calendar/answer/37115?hl=en&co=GENIE.Platform%3DDesktop).
     1. View/edit event types in the `event_types` section of `config.yml`. Your Google Calendar titles should have the appropriate prefix or suffix matching these event types. For example, if your calendar event title is "[Data 101] Lecture", `_config.yml` should have `suffix: Lecture`. If instead, your calendar event title is "Lecture - Pivots and Joins", `_config.yml` should have `prefix: Lecture`. We recommend only changing `suffix` / `prefix` and none of the other fields.
 
