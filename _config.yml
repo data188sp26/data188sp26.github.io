@@ -15,29 +15,29 @@
 # in the templates via {{ site.myvariable }}.
 
 # TODO(setup): Typically the course number, "DEPT XXX". it appears on nearly every page. Keep it short. :)
-title: A Berkeley Course
+title: Data 188
 # TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
+tagline: Introduction to Deep Learning
+description: Introduction to Deep Learning
 # TODO(template): this should be built from the staff list...
-author: Various Bears
+author: Eric Kim
 # You should use either light or dark as the theme.
 color_scheme: light
 
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/berkeley-class-site' # the subpath of your site, which should just be the semester.
+baseurl: '/sp26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
-url: 'https://berkeley-eecs.github.io' # the hostname & protocol for your site, e.g. http://example.com
+url: 'https://data188sp26.github.io' # the hostname & protocol for your site, e.g. http://example.com
 
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
 # TODO(setup): Set all of these course variables
-course: SAMPLE 101
-course_email: COURSE_EMAIL@berkeley.edu
+course: Data 188
+course_email: ekim555@berkeley.edu
 gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 123456 # Again, same as above.
-sememster: spYY | suYY | faYY # set for the current seemester
+sememster: sp26 # set for the current seemester
 # TODO(template): We need to set this up.
 course_logo_path:
 # This should be one of eecs, dsus, stat
@@ -193,7 +193,7 @@ defaults:
       type: lectures
     values:
       layout: lecture
-      time: 00:00 # Default release time of lectures is currently set to 12:00 AM 
+      time: 00:00 # Default release time of lectures is currently set to 12:00 AM
 
 
 ######################################################################

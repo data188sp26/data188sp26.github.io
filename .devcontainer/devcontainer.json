@@ -1,6 +1,8 @@
 {
   "name": "Jekyll",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:latest",
+  // "image": "mcr.microsoft.com/devcontainers/jekyll:latest",
+  // Tip: pin docker image version to avoid dependency issues
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2.1.8-3.3-bookworm",
 
   "features": {},
 
