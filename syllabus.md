@@ -39,7 +39,11 @@ should make your post private (visible to instructors only). We always welcome
 any feedback on what we could be doing better.
 
 To join the class Ed: after you have officially enrolled in the course and are added to the bCourses, you will be automatically added to the course Ed.
-If you are not able to access the Ed, please email the course instructors: ekim555@berkeley.edu.
+If you are not able to access the Ed, please email the course instructors.
+
+**Tip**: the best (and fastest!) way to get help is to ask a question on Edstem.
+Please do not directly email course staff to get help.
+You are welcome to ask questions about nearly anything, including: assignments, course concepts, tangentially-related topics, applications to academia/industry, etc.
 
 ### Gradescope
 
@@ -47,7 +51,7 @@ All homework will be submitted through **Gradescope**, and all grades will be
 returned through Gradescope.
 
 To join the class Gradescope: after you have officially enrolled in the course and are added to the bCourses, you will be automatically added to the course Gradescope.
-If you are not able to access the Gradescope, please email the course instructors: ekim555@berkeley.edu, or create a private question on Edstem.
+If you are not able to access the Gradescope, please email the course instructors, or create a private question on Edstem.
 
 ### bCourses
 
