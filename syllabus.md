@@ -102,9 +102,8 @@ justify all of your answers.
 
 Homework and projects will be graded by correctness, typically via Gradescope autograder. There will be unlimited autograder attempts allowed.
 
-**Late policy**: there will be a univeral 24 hour grace period for all assignments.
-After this 24-hour grace period, late submissions will not be accepted, and students will instead receive 0 points for the assignment.
-You do not need to request for an extension for this 24 hour grace period, it is already granted by default for all students.
+**Late policy**: late submissions will not be accepted.
+After the assignment deadline has passed, if a student had not yet submitted anything to Gradescope, the student will receive 0 points for the assignment.
 
 **Extenuating circumstances**: we understand that unexpected things can come up that can interfere with your coursework.
 If you feel strongly that circumstances outside of your control are preventing you from submitting coursework on time, please contact course staff ASAP to request an extension.
@@ -203,8 +202,7 @@ If you feel that your submitted work was considerably influenced (or "inspired")
 
 The grading breakdown is as follows:
 
-- Homework: 25%
-- Final Project: 15%
+- Homework: 40%
 - Midterm Exam: 20%
 - Final Exam: 40%
 
