@@ -27,7 +27,7 @@ color_scheme: light
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
 baseurl: '/sp26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
-url: 'https://data-188-berkeley.github.io/data188sp26.github.io/' # the hostname & protocol for your site, e.g. http://example.com
+url: 'https://data-188-berkeley.github.io/data188sp26.github.io' # the hostname & protocol for your site, e.g. http://example.com
 
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
