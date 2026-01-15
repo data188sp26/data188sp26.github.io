@@ -78,6 +78,9 @@ Electronic devices are not allowed, including: calculators, smart phones, laptop
 For the midterm, you are allowed one page (double sided) of notes.
 For the final exam, you are allowed two pages (double sided) of notes.
 
+Exams will cover all material covered in: lectures, discussion section, and assignments.
+
+
 | Name | Date | Time (PST) | Location |
 | ---- | ---- | ---- | ---- |
 | Midterm | Tuesday March 10th 2026 | 7:00 PM - ? | [Genetics and Plant Biology 0100](https://rtl.berkeley.edu/classroom-database/genetics-and-plant-biology-0100) |

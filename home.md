@@ -26,6 +26,10 @@ This course is an introduction to deep learning (also known as "deep neural netw
 - bCourse: [link](https://bcourses.berkeley.edu/courses/1551684)
 - Ed: [link](https://edstem.org/us/courses/91872/discussion)
 - Gradescope: [link](https://www.gradescope.com/courses/1217889)
+- Lecture Zoom link: [link](https://berkeley.zoom.us/j/98594186696)
+
+**Note**: lecture starts during Week 01 (2026-01-20).
+Discussion section and office hours will not start until Week 02 (2026-01-26).
 
 ## Textbooks
 We will be using the following textbooks, all fortunately freely available online:
@@ -52,6 +56,9 @@ While this is not required for the course, we believe that the material here can
 
 ### Lecture Slides
 <ul>
+<li>Lecture 01 [Week 1, 2026-01-20] Introduction</li>
+<li>Lecture 02 [Week 2, 2026-01-22] ML Refresher, Softmax Regression </li>
+
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
  <li> Bishop Book: Chapter 1 </li>
@@ -146,6 +153,8 @@ offer more opportunities for you to interact with your TA.
 
 ### Section Notes
 
+Discussion 01 (Week 2): TODO
+
 <!-- - Discussion 01 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 
 - Discussion 02 (Week 4): [Section Notes](/assets/section_notes/week04.pdf), [Solution](/assets/section_notes/week04_solution.pdf)
@@ -170,9 +179,11 @@ offer more opportunities for you to interact with your TA.
 
 ## Homeworks
 All homeworks are graded for accuracy.
-See the course syllabus for info about collaboration, slip day, late policy.
+See the course syllabus for more info about homework policy.
 
 ### Homeworks
+
+Homework 0, **due TBD**
 
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
