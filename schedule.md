@@ -4,7 +4,7 @@ title: Schedule
 description: Course topics, lectures, and assignments schedule.
 
 nav_order: 1
-published: true
+published: false
 ---
 
 # Schedule

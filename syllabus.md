@@ -91,13 +91,20 @@ Exams will cover all material covered in: lectures, discussion section, and assi
 
 Note: exam durations are not yet finalized, but will not exceed 3 hours.
 
-**Alternate Exam Policy**: We will grant alternate exam times only for extenuating circumstances, and must be approved by the instructor.
-If you require taking an exam at an alternate exam time, please contact the course staff ASAP, eg by creating a private Ed post.
+**Alternate Midterm Exam Policy**: We will grant alternate midterm exam times only for extenuating circumstances, and must be approved by the instructor.
+This alternate midterm exam time is defined in the above table, as "Alternate Midterm".
+If you require taking the midterm exam at this alternate exam time, please contact the course staff ASAP (ideally at least one week before the midterm exam), eg by creating a private Ed post.
+There will be no other alternate midterm exam times.
 
-If you are unable to attend any of the above midterm/final exam times (even the "Alt" exam times), please contact course staff ASAP so that we can figure out an alternate solution.
+**Excused Midterm**: If, due to extenuating circumstances, you are unable to take the midterm exam (eg circumstances outside of your control prevent you from taking the midterm at either the primary or the alternate time), then your midterm score will be replaced by the final exam score.
+Ex: if the grading breakdown was 40% HW, 20% Midterm, 40% Final, then your new grading breakdown would be 40% HW, 60% Final.
+You must get explicit approval from course staff for this **BEFORE** the exam.
+
+**Alternate Final Exam Policy**: As of 2026-01-16, while I would like to offer an "Alternate Final" in case there are final exam conflicts, I have not yet received department confirmation that this is possible. Stay tuned for details. In the meantime, if you know that you are unable to make the current Final Exam date+time, please contact course staff ASAP so that we can figure something out. All students must take the final exam to pass the course: there will be no "Excused Final Exam" policy.
 
 **DSP Exams Accommodations**: We will accommodate those with exam-related DSP accommodations.
-Course staff will reach out to DSP students regarding scheduling DSP exams: if you have DSP exam accommodations and have not been reached out within a week of the exam, please make a private Ed post.
+Course staff will reach out to DSP students regarding scheduling DSP exams: if you have DSP exam accommodations and have not been reached out within a week of the exam, please contact course staff by making a private Ed post.
+
 
 ## Materials
 

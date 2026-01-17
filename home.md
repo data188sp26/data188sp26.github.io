@@ -7,10 +7,21 @@ seo:
   type: Course
   name: Data 188 Spring 2026
 ---
+# Main Page
 
-# Home
+{:.no_toc}
 
-IMPORTANT(2026-01-09) This is a WORK IN PROGRESS, and not finalized.
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+This is the course website for Data 188, "Introduction to Deep Learning", Spring 2026, UC Berkeley.
+
+**IMPORTANT(2026-01-09) This is a WORK IN PROGRESS, and not finalized.**
 
 ## Course Description
 
@@ -47,7 +58,7 @@ The free-to-use online version is at <a href="https://www.bishopbook.com/">Bisho
 ## Lectures
 Lectures are Tuesdays and Thursdays, 3:30PM - 5PM, online via Zoom.
 Lecture slides are provided via this website, and lecture videos are
-provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/courses/1551684/external_tools/90481). Students are responsible for all lecture content.
+provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/courses/1551684/external_tools/90481).
 
 <!-- This Ed post ["Lecture Schedule"](https://TODO/add/link) contains more info about the lecture schedule, including: Zoom lecture links. -->
 
@@ -146,10 +157,9 @@ While this is not required for the course, we believe that the material here can
 </ul>
 
 ## Discussion Sections
-The discussion sections will not cover new material, but rather will give you
-additional practice solving problems. You can attend any discussion section you
-like. However, if there are less crowded sections that fit your schedule, those
-offer more opportunities for you to interact with your TA.
+You can attend any discussion section you like.
+However, if there are less crowded sections that fit your schedule, those offer more opportunities for you to interact with your TA.
+See this [calendar](calendar/) to view the available discussion section times and locations.
 
 ### Section Notes
 
@@ -180,8 +190,6 @@ Discussion 01 (Week 2): TODO
 ## Homeworks
 All homeworks are graded for accuracy.
 See the course syllabus for more info about homework policy.
-
-### Homeworks
 
 Homework 0, **due TBD**
 
