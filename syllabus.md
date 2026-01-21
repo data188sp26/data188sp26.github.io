@@ -17,9 +17,6 @@ nav_order: 3
 
 ---
 
-IMPORTANT(2026-01-09) This is a WORK IN PROGRESS, and not finalized.
-
-
 ## Technology
 
 

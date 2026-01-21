@@ -21,8 +21,6 @@ seo:
 
 This is the course website for Data 188, "Introduction to Deep Learning", Spring 2026, UC Berkeley.
 
-**IMPORTANT(2026-01-09) This is a WORK IN PROGRESS, and not finalized.**
-
 ## Course Description
 
 From the [UC Berkeley course catalog](https://classes.berkeley.edu/content/2026-spring-data-188-001-sem-001):
@@ -67,8 +65,8 @@ While this is not required for the course, we believe that the material here can
 
 ### Lecture Slides
 <ul>
-<li>Lecture 01 [Week 1, 2026-01-20] Introduction</li>
-<li>Lecture 02 [Week 2, 2026-01-22] ML Refresher, Softmax Regression </li>
+<li>Lecture 01 [Week 1, 2026-01-20] <a href="assets/lecture_slides/01_intro.pdf">Introduction</a></li>
+<li>Lecture 02 [Week 1, 2026-01-22] ML Refresher, Softmax Regression </li>
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
