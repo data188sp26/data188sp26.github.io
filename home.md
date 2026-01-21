@@ -188,8 +188,13 @@ Discussion 01 (Week 2): TODO
 ## Homeworks
 All homeworks are graded for accuracy.
 See the course syllabus for more info about homework policy.
+For assignment due dates, see Gradescope.
 
-Homework 0, **due TBD**
+**Tip**: For Colab notebooks, it's recommended to save your own copy of the notebook by doing "File -> Save a copy in Drive" before running any cells.
+
+* (optional) [Python Colab Tutorial](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/colab_tutorial.ipynb).
+
+* [Homework 0](https://colab.research.google.com/github/data-188-berkeley/hw0/blob/main/hw0.ipynb): ML warmup, softmax classification.
 
 <!-- - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
