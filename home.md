@@ -76,9 +76,9 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Reading: (Bishop) Ch 1.2, Ch 5.4.4, Ch 7.2
 - Lecture 03 [Week 2, 2026-01-27] Manual Neural Networks
   - Reading: (Bishop) Ch 1.2, Ch 1.3, Ch 4.1, Ch. 6.2, 6.3, 6.4
-- Lecture 04 [Week 2] Automatic Differentiation
+- Lecture 04 [Week 2, 2026-01-29] Automatic Differentiation
   - Reading: (Bishop) Ch 8.1, 8.2
-- Lecture 05 [Week 2] Optimization
+- Lecture 05 [Week 3, 2026-02-03] Optimization
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
