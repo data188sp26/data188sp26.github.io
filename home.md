@@ -66,7 +66,7 @@ While this is not required for the course, we believe that the material here can
 ### Lecture Slides
 <ul>
 <li>Lecture 01 [Week 1, 2026-01-20] <a href="assets/lecture_slides/01_intro.pdf">Introduction</a></li>
-<li>Lecture 02 [Week 1, 2026-01-22] ML Refresher, Softmax Regression </li>
+<li>Lecture 02 [Week 1, 2026-01-22] <a href="assets/lecture_slides/02_softmax_regression.pdf">ML Refresher, Softmax Regression</a> </li>
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
