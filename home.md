@@ -64,9 +64,21 @@ provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/course
 While this is not required for the course, we believe that the material here can enhance understanding of the course and, more broadly, gain further exposure to the DNN field. -->
 
 ### Lecture Slides
-<ul>
-<li>Lecture 01 [Week 1, 2026-01-20] <a href="assets/lecture_slides/01_intro.pdf">Introduction</a></li>
-<li>Lecture 02 [Week 1, 2026-01-22] <a href="assets/lecture_slides/02_softmax_regression.pdf">ML Refresher, Softmax Regression</a> </li>
+Regarding reading:
+The provided reading links are optional and are provided for students interested in additional resources.
+The content in the reading will not always be "fair game" for exams: if something isn't covered in lecture/discussion/assignments, then it won't be in scope for exams.
+The Bishop textbook doesn't always cleanly map to our lectures, but I've done my best to line things up.
+Note that the Bishop textbook sometimes takes a different approach to concepts (eg Bishop is sometimes relatively probability-heavy) that we won't always follow in our course.
+
+- Lecture 01 [Week 1, 2026-01-20] <a href="assets/lecture_slides/01_intro.pdf">Introduction</a>
+  - Reading: (Bishop) Ch1.1
+- Lecture 02 [Week 1, 2026-01-22] <a href="assets/lecture_slides/02_softmax_regression.pdf">ML Refresher, Softmax Regression</a>
+  - Reading: (Bishop) Ch 1.2, Ch 5.4.4, Ch 7.2
+- Lecture 03 [Week 2, 2026-01-27] Manual Neural Networks
+  - Reading: (Bishop) Ch 1.2, Ch 1.3, Ch 4.1, Ch. 6.2, 6.3, 6.4
+- Lecture 04 [Week 2, 2026-01-29] Automatic Differentiation
+  - Reading: (Bishop) Ch 8.1, 8.2
+- Lecture 05 [Week 3, 2026-02-03] Optimization
 
 <!-- <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a> </li>
   <ul>
@@ -150,9 +162,8 @@ While this is not required for the course, we believe that the material here can
 <li> Lecture 23 [Week 14, 2024/11/26] Guest Talk. Speaker: Jinjian Liu (Tutor), <a href="assets/lecture_slides/data182_Lecture23_Repository_to_Environment.pdf">Repository to Environment </a></li>
 <li> Lecture N/A [Week 14, 2024/11/28] No lecture (Thanksgiving holiday) </li>
 <li> Lecture 24 [Week 15, 2024/12/03] Speaker: Eric Kim, <a href="assets/lecture_slides/data182_Lecture24_Closing_Lecture_Pt1.pdf">Closing Lecture (1/2)</a></li>
-<li> Lecture 25 [Week 15, 2024/12/05] Principled structures in deep learning-based autoregressive modeling of high-dimensional multi-scale chaotic dynamical systems. Guest Lecture on Deep Learning for Climate Modeling by Prof Ashesh Chattopadhyay of UCSC </li> -->
-
-</ul>
+<li> Lecture 25 [Week 15, 2024/12/05] Principled structures in deep learning-based autoregressive modeling of high-dimensional multi-scale chaotic dynamical systems. Guest Lecture on Deep Learning for Climate Modeling by Prof Ashesh Chattopadhyay of UCSC </li>
+</ul> -->
 
 ## Discussion Sections
 You can attend any discussion section you like.
