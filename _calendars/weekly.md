@@ -37,7 +37,7 @@ schedule:
       - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
-        location: Online, Zoom
+        location: Online, <a href="https://berkeley.zoom.us/j/95108173998">Zoom</a>
         info: "Staff: Eric Kim"
   - name: Tuesday
     events:
