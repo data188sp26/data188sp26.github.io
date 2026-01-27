@@ -79,7 +79,7 @@ Note that the Bishop textbook sometimes takes a different approach to concepts (
   - Reading: (Bishop) Ch1.1
 - Lecture 02 [Week 1, 2026-01-22] <a href="assets/lecture_slides/02_softmax_regression.pdf">ML Refresher, Softmax Regression</a>
   - Reading: (Bishop) Ch 1.2, Ch 5.4.4, Ch 7.2
-- Lecture 03 [Week 2, 2026-01-27] Manual Neural Networks
+- Lecture 03 [Week 2, 2026-01-27] <a href="assets/lecture_slides/03_manual_neural_nets.pdf">Manual Neural Networks</a>
   - Reading: (Bishop) Ch 1.2, Ch 1.3, Ch 4.1, Ch. 6.2, 6.3, 6.4
 - Lecture 04 [Week 2, 2026-01-29] Automatic Differentiation
   - Reading: (Bishop) Ch 8.1, 8.2
