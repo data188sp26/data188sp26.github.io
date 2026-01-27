@@ -37,7 +37,7 @@ This course also adapts material from CMU's ["Deep Learning Systems"](https://dl
 **Important:** In this course, we will use Edstem to post announcements and important information.
 It is the student's responsibility to actively monitor the Ed for any important announcements.
 
-- bCourse: [link](https://bcourses.berkeley.edu/courses/1551684)
+- bCourses: [link](https://bcourses.berkeley.edu/courses/1551684)
 - Ed: [link](https://edstem.org/us/courses/91872/discussion)
 - Gradescope: [link](https://www.gradescope.com/courses/1217889)
 - Lecture Zoom link (TuTh 3:30pm - 5:00pm): [link](https://berkeley.zoom.us/j/98594186696)
@@ -177,7 +177,7 @@ See this [calendar](calendar/) to view the available discussion section times an
 
 ### Section Notes
 
-Discussion 01 (Week 2): "Matrices, vectors, and gradients"
+- Discussion 01 (Week 2): Matrices, vectors, and gradients. [Section Notes]({%link assets/disc/dis01_question.pdf %}), [Solutions]({%link assets/disc/dis01_solution.pdf %})
 
 <!-- - Discussion 01 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 

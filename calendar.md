@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Calendar (Static)
+title: Calendar
 description: Lecture, Discussion and OH schedules
 nav_order: 2
 ---
 
-# Calendar (Static)
+# Calendar
 
 This calendar contains standard weekly course activities, like: lecture, discussion, and office hours.
 
