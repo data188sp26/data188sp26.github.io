@@ -57,7 +57,15 @@ favicon_ico: "/favicon.png"
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org'
+    - 'https://edstem.org/us/courses/91872/discussion'
+  bCourses:
+    - 'https://bcourses.berkeley.edu/courses/1551684'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/1217889'
+  OH Queue:
+    - 'https://oh.data188.not.ds100.org/'
+  Lecture Zoom:
+    - 'https://berkeley.zoom.us/j/98594186696'
   View Template on GitHub:
     - 'https://github.com/berkeley-eecs/berkeley-class-site'
 
